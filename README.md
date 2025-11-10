@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 OTP & Notifikasi Ujian via Wablas (Vercel API)
 
 Proyek ini berisi API siap pakai untuk:
@@ -12,3 +13,6 @@ Proyek ini berisi API siap pakai untuk:
 3. Upload folder `otp-ujian-vercel.zip`
 4. Klik **Deploy**
 5. Setelah selesai, API akan aktif di:
+=======
+# otp-ujian-vercel
+>>>>>>> cb2b5dcdae21234e942edb2147b990728691e79c
