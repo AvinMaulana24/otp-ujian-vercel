@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 // 🔐 Token Wablas (langsung aktif)
 const WABLAS_TOKEN = "GjsjeZCUGwLXs5B7K3CjwUnpVx5JNzyHxAbIDT6gULjUWjvn5xJalG8";
