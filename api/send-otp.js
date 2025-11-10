@@ -1,6 +1,3 @@
-import fetch from "node-fetch";
-
-// 🔐 Token Wablas (langsung aktif)
 const WABLAS_TOKEN = "GjsjeZCUGwLXs5B7K3CjwUnpVx5JNzyHxAbIDT6gULjUWjvn5xJalG8";
 const WABLAS_SECRET = "pWzudmXL";
 
